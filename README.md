@@ -2,6 +2,9 @@
 <br>
 ### 2017-11-30 Create by wanlixin
 
+##### 效果如下：
+![](https://github.com/wanlixi/vue-sendVerificationCode/blob/master/send-verification-code.gif)
+
 ##### 基于vue2.0开发的发送验证码组件，
 <ul>
   <li>支持自定义按钮的样式；</li>
